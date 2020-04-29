@@ -259,7 +259,7 @@
             {
                "height" : 3024,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100202437331148327574\"\u003eSéverine Furma\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100202437331148327574\"\u003eSÃ©verine Furma\u003c/a\u003e"
                ],
                "photo_reference" : "CmRaAAAAvxaecR_43CCU4QHN3rn41MVx-mTYE76bOYx4x-vmHw674xO7m_8SvvIi2SH1rcdil1IQiMgTkDUIWqZdQXrgu1kn68UZrUdXNnEgH3hhp2pBsqX-KWvCDZFfyrZUO6b-EhDRsOzanFlBdQea1q7rKFsVGhSVpUnDsmlBuFjjygS1cFVTChYq-g",
                "width" : 4032
@@ -705,7 +705,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
          "id" : "f788709b1847f68e38e887852fa7431edaf01617",
-         "name" : "Khéma Pasteur",
+         "name" : "KhÃ©ma Pasteur",
          "opening_hours" : {
             "open_now" : true
          },
